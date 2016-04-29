@@ -4,8 +4,8 @@ Segala fail coding dan dokumen berkaitan, sila upload ke dalam git ini untuk mem
 
 Link untuk belajar MVC:
 
-ASP.NET MVC Tutorial
+ASP.NET MVC Tutorial:
 http://www.w3schools.com/aspnet/mvc_intro.asp
 
-Learn About ASP.NET MVC
+Learn About ASP.NET MVC:
 http://www.asp.net/mvc
