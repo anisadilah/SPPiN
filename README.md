@@ -4,3 +4,5 @@ Segala fail coding dan dokumen berkaitan, sila upload ke dalam git ini untuk mem
 
 Rujuk SPPiN Wiki untuk tutorial:
 https://github.com/SEInfinity/SPPiN/wiki
+
+Tarikh POC : 25-28 Mei 2016
